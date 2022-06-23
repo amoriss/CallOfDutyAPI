@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BUYIf2stgsK//1QgG53GIBdOEQxFgywI2qasa71DLzUNzis9yOJ6OIHcCaLq3T5ijTthk4fG+VmvOQiG3PwnOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amori\\Desktop\\Repos\\06_APIsandJSON\\CallofDutyAPI\\CallofDutyAPI\\CallofDutyAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amori\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
